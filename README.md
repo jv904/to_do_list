@@ -20,11 +20,3 @@ A aplicação trabalha com a entidade `Tarefa`, que possui os seguintes campos:
 - `descricao` (String) → descrição detalhada
 - `concluida` (boolean) → status da tarefa
 
----
-
-## ⚙️ Como executar o projeto
-
-### Pré-requisitos
-- Java 21 instalado
-- Maven ou Gradle (gerenciado pelo IntelliJ)
-
